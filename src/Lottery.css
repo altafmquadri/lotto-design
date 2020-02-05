@@ -1,0 +1,13 @@
+.Lottery-Container {
+    display:flex;
+    justify-content: center;
+    margin: 3px;
+}
+
+.Lottery button {
+    border:none;
+    border-radius:20px;
+    font-size: 20px;
+    background-color: saddlebrown;
+    color: wheat;
+}
