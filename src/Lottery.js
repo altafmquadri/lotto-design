@@ -43,4 +43,4 @@ class Lottery extends Component {
     }
 }
 
-export default Lottery
+export default Lottery  
